@@ -1,5 +1,4 @@
-import csv
-import structure
+
 
 # DESPLIEGA TODO EL TEXTO DE MANERA ORDENADA EN LA CONSOLA
 
